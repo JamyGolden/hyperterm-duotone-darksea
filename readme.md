@@ -1,6 +1,6 @@
 # hyperterm-duotone-darksea
 
-> Duotone Dark Sea [HyperTerm](https://hyperterm.org) theme
+> Duotone Dark Sea [HyperTerm](https://hyper.is) theme
 
 ![theme example](./duotone-darksea-example.gif)
 
